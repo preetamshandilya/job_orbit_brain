@@ -1,0 +1,16 @@
+1. json: This library is used for working with JSON data. It is used to read the configuration from the config.json file..
+-> pip install json
+
+2. mysql-connector-python: This library is used for connecting to and interacting with a MySQL database.
+-> pip install mysql-connector-python
+
+3. pandas: This library is widely used for data manipulation and analysis.
+-> pip install pandas
+
+4. requests: This library is used to make HTTP requests to webpages and fetch their content
+-> pip install requests
+
+5. BeautifulSoup: This library is used for web scraping and parsing HTML content.
+-> pip install beautifulsoup4
+
+
